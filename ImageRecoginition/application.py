@@ -7,7 +7,7 @@ import scipy
 from PIL import Image
 from scipy import ndimage
 from lr_utils import *
-from deep import *
+from deep_learning import *
 
 plt.rcParams['figure.figsize'] = (5.0, 4.0) # set default size of plots
 plt.rcParams['image.interpolation'] = 'nearest'
